@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/booksApp.git/static/css/main.ba4c3c51.chunk.css",
+    "main.js": "/booksApp.git/static/js/main.44cd4039.chunk.js",
+    "main.js.map": "/booksApp.git/static/js/main.44cd4039.chunk.js.map",
+    "runtime-main.js": "/booksApp.git/static/js/runtime-main.a3a71410.js",
+    "runtime-main.js.map": "/booksApp.git/static/js/runtime-main.a3a71410.js.map",
+    "static/css/2.23ea11f1.chunk.css": "/booksApp.git/static/css/2.23ea11f1.chunk.css",
+    "static/js/2.9fe5a790.chunk.js": "/booksApp.git/static/js/2.9fe5a790.chunk.js",
+    "static/js/2.9fe5a790.chunk.js.map": "/booksApp.git/static/js/2.9fe5a790.chunk.js.map",
+    "index.html": "/booksApp.git/index.html",
+    "static/css/2.23ea11f1.chunk.css.map": "/booksApp.git/static/css/2.23ea11f1.chunk.css.map",
+    "static/css/main.ba4c3c51.chunk.css.map": "/booksApp.git/static/css/main.ba4c3c51.chunk.css.map",
+    "static/js/2.9fe5a790.chunk.js.LICENSE.txt": "/booksApp.git/static/js/2.9fe5a790.chunk.js.LICENSE.txt",
+    "static/js/main.44cd4039.chunk.js.LICENSE.txt": "/booksApp.git/static/js/main.44cd4039.chunk.js.LICENSE.txt",
+    "static/media/angular.jpg": "/booksApp.git/static/media/angular.b5045666.jpg",
+    "static/media/argon-react-white.png": "/booksApp.git/static/media/argon-react-white.e4dd3b41.png",
+    "static/media/argon-react.png": "/booksApp.git/static/media/argon-react.128d71d3.png",
+    "static/media/bootstrap.jpg": "/booksApp.git/static/media/bootstrap.bd712487.jpg",
+    "static/media/all.min.css": "/booksApp.git/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/github.svg": "/booksApp.git/static/media/github.6c955556.svg",
+    "static/media/google.svg": "/booksApp.git/static/media/google.eae9aa93.svg",
+    "static/media/nucleo.css": "/booksApp.git/static/media/nucleo-icons.d6a66724.ttf",
+    "static/media/profile-cover.jpg": "/booksApp.git/static/media/profile-cover.97899245.jpg",
+    "static/media/react.jpg": "/booksApp.git/static/media/react.0e8c9066.jpg",
+    "static/media/sketch.jpg": "/booksApp.git/static/media/sketch.a6af780a.jpg",
+    "static/media/team-1-800x800.jpg": "/booksApp.git/static/media/team-1-800x800.fa5a7ac2.jpg",
+    "static/media/team-2-800x800.jpg": "/booksApp.git/static/media/team-2-800x800.3e08ef14.jpg",
+    "static/media/team-3-800x800.jpg": "/booksApp.git/static/media/team-3-800x800.70911cdd.jpg",
+    "static/media/team-4-800x800.jpg": "/booksApp.git/static/media/team-4-800x800.99c612eb.jpg",
+    "static/media/vue.jpg": "/booksApp.git/static/media/vue.43bd93a8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3a71410.js",
+    "static/css/2.23ea11f1.chunk.css",
+    "static/js/2.9fe5a790.chunk.js",
+    "static/css/main.ba4c3c51.chunk.css",
+    "static/js/main.44cd4039.chunk.js"
+  ]
+}
